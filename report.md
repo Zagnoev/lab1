@@ -1,0 +1,2 @@
+In this assignment i have created a repository in github and made 2 initial commits. Subsequesntly i added, pushed and committed additional files to the repository.
+Finally i deployed the index.html file to GitHub pages.
